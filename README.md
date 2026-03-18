@@ -2,6 +2,10 @@
 
 🖥️ Projeto desenvolvido como parte dos cursos da **Alura**, com o objetivo de criar uma **página inicial de uma livraria online** utilizando apenas HTML e CSS.
 
+<div><img src="./AluraBook-1.jpeg"></div> <br>
+
+<div><img src="./AluraBook-2.jpeg"></div>
+
 ## 📌 Sobre o Projeto | About the Project
 
 Este projeto simula uma livraria digital chamada **Alura Books**. A ideia principal era construir uma **landing page moderna, acessível e responsiva** baseada em um layout fornecido pela Alura.
